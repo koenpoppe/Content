@@ -3,13 +3,17 @@ Overview of the content I've presented in various formats.
 
 # Presentations
 
-- 2025-10-30, "Qt Test: expressive tests with actionable results" (Qt Belgium Meetup)
-- 2023-11-12, "Minimal Logging" (Meeting C++ 2023)
-  - see [MinimalLogging](https://github.com/koenpoppe/MinimalLogging)
-- 2022-11-28, "Minimal Logging Framework in C++ 20" (BeC++ User group)
-  - see [MinimalLogging](https://github.com/koenpoppe/MinimalLogging)
-- 2019-11-06, "Embedded Documentation with QML" (QtWS19)
-  - see [QtWS-EmbeddedDocumentation](https://github.com/koenpoppe/QtWS19-EmbeddedDocumentation) repo
+- 2025-10-30, [Qt Belgium Meetup #2](https://www.meetup.com/qt-belgium/events/311203175/?eventOrigin=group_past_events)
+  - **Qt Test: expressive tests with actionable results**
+- 2023-11-12, [Meeting C++](https://meetingcpp.com) 2023
+  - **Minimal Logging**
+    - ➡️ [MinimalLogging](https://github.com/koenpoppe/MinimalLogging) repository
+- 2022-11-28, [BeC++ User group](https://becpp.org/)
+  - **Minimal Logging Framework in C++ 20** 
+    - ➡️ [MinimalLogging](https://github.com/koenpoppe/MinimalLogging) repository
+- 2019-11-06, QtWS19
+  - **Embedded Documentation with QML**
+    - ➡️ [QtWS-EmbeddedDocumentation](https://github.com/koenpoppe/QtWS19-EmbeddedDocumentation) repository
 
 # Podcasts
 
